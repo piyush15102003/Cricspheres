@@ -1,6 +1,6 @@
-# CricketApp
+# Cricsphere
 
-CricketApp is a comprehensive cricket information application designed to provide real-time updates, scores, news, and more, similar to the Cricbuzz application.
+Cricsphere is a comprehensive cricket information application designed to provide real-time updates, scores, news, and more, similar to the Cricbuzz application.
 
 ## Features
 
